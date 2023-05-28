@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a3008c2-7162-4955-963c-4d1ca2097333" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QLPxooW8sWocQT0okqg7XMXoAh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/DELL/Desktop/front-end works/reference/cardValidationApp/src/validator",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="validator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CardValidationTest.test_that_card_is_valid">
+    <configuration name="CardValidationTest.test_that_card_is_not_valid" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cardValidationApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CardValidationTest" />
+      <option name="METHOD_NAME" value="test_that_card_is_not_valid" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardValidationTest.test_that_card_is_valid" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cardValidationApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CardValidationTest" />
+      <option name="METHOD_NAME" value="test_that_card_is_valid" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardValidationTest.test_that_numbers_at_odd_places_can_be_summed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cardValidationApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CardValidationTest" />
+      <option name="METHOD_NAME" value="test_that_numbers_at_odd_places_can_be_summed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardValidationTest.test_that_second_digit_of_the_array_can_be_doubled_and_summed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cardValidationApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CardValidationTest" />
+      <option name="METHOD_NAME" value="test_that_second_digit_of_the_array_can_be_doubled_and_summed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardValidationTest.test_that_sum_of_odd_places_and_even_places_is_equal_to_75" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cardValidationApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CardValidationTest" />
+      <option name="METHOD_NAME" value="test_that_sum_of_odd_places_and_even_places_is_equal_to_75" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CardValidationTest.test_that_card_is_valid" />
+        <item itemvalue="TestNG.CardValidationTest.test_that_card_is_not_valid" />
+        <item itemvalue="TestNG.CardValidationTest.test_that_sum_of_odd_places_and_even_places_is_equal_to_75" />
+        <item itemvalue="TestNG.CardValidationTest.test_that_numbers_at_odd_places_can_be_summed" />
+        <item itemvalue="TestNG.CardValidationTest.test_that_second_digit_of_the_array_can_be_doubled_and_summed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a3008c2-7162-4955-963c-4d1ca2097333" name="Changes" comment="" />
+      <created>1685130147375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685130147375</updated>
+      <workItem from="1685130151009" duration="23461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
